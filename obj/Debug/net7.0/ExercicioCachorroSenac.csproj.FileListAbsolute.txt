@@ -1,0 +1,15 @@
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioCachorroSenac/bin/Debug/net7.0/ExercicioCachorroSenac
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioCachorroSenac/bin/Debug/net7.0/ExercicioCachorroSenac.deps.json
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioCachorroSenac/bin/Debug/net7.0/ExercicioCachorroSenac.runtimeconfig.json
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioCachorroSenac/bin/Debug/net7.0/ExercicioCachorroSenac.dll
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioCachorroSenac/bin/Debug/net7.0/ExercicioCachorroSenac.pdb
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioCachorroSenac/obj/Debug/net7.0/ExercicioCachorroSenac.csproj.AssemblyReference.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioCachorroSenac/obj/Debug/net7.0/ExercicioCachorroSenac.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioCachorroSenac/obj/Debug/net7.0/ExercicioCachorroSenac.AssemblyInfoInputs.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioCachorroSenac/obj/Debug/net7.0/ExercicioCachorroSenac.AssemblyInfo.cs
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioCachorroSenac/obj/Debug/net7.0/ExercicioCachorroSenac.csproj.CoreCompileInputs.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioCachorroSenac/obj/Debug/net7.0/ExercicioCachorroSenac.dll
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioCachorroSenac/obj/Debug/net7.0/refint/ExercicioCachorroSenac.dll
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioCachorroSenac/obj/Debug/net7.0/ExercicioCachorroSenac.pdb
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioCachorroSenac/obj/Debug/net7.0/ExercicioCachorroSenac.genruntimeconfig.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioCachorroSenac/obj/Debug/net7.0/ref/ExercicioCachorroSenac.dll
